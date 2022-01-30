@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/emilygibbons/<OWNER>/<OWNER>/Minimal Personal Profile Linkedin Banner.png "Header")]
+
+Minimal Personal Profile Linkedin Banner.png
 ### Hi there 👋
 
 <!--
