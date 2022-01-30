@@ -1,4 +1,4 @@
-![](https://github.com/emilygibbons/emilygibbons/blob/main/Minimal%20Personal%20Profile%20Linkedin%20Banner.png)
+![](https://github.com/emilygibbons/emilygibbons/blob/main/Github%20Banner.png)
 
 ### Hi there 👋
 
