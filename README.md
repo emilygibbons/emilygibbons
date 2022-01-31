@@ -4,7 +4,7 @@
 I'm Emily Gibbons! 
 - <i>Currently:</i> BASc Student at Queen's University Kingston, ON, Canada. 
 
-<h2>💻 I'm Currently Learning</h2>
+<h2>💻 I'm currently learning:</h2>
 
 __Queen's University__
 - SOFT437 Performance Analysis
