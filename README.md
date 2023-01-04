@@ -2,14 +2,23 @@
 
 ### Hi there 👋
 I'm Emily Gibbons! 
-- <i>Currently:</i> BASc Student at Queen's University Kingston, ON, Canada. 
+- <i>Education:</i> BASc Student at Queen's University Kingston, ON, Canada. 
+- <i>Currently:</i> Working full-time as a software developer at Bank of Montreal.
 
 <h2>💻 I'm currently learning:</h2>
 
-__Queen's University__
-- SOFT437 Performance Analysis
-- CMPE332 Database Management Systems
-- ELEC472 Artifical Intelligence
+__At Work__
+- Data Management Platform (DMP)
+- Streaming Platform (DMPS)
+- Java, JavaScript, SQL, SRL
+- Unit testing
+
+__On My Free Time__
+- Kotlin
+- React Native
+- API Integration
+- iOS/Android App Development
+- Full Stack Skills
 
 <h2>🔭Currently working on:</h2>
 <h4>Privacy Preserving Online Advertisement System</h4>
@@ -20,7 +29,7 @@ __Check out my GitHub repository:__
 
 <h2> ⚡About Me:</h2>
 
-I'm in my final year of a Computer Engineering Degree, graduating in May 2022. Outside school, I love to cook, enjoy music and being active!
+I graduated from Computer Engineering in April 2022 and I am currently working my first post-graduation job doing software development. Outside of work, I love to work on technical side projects, cook, play musical instruments and being active!
 
 <h2>📫 How to reach me:</h2>
 
