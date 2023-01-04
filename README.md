@@ -3,7 +3,7 @@
 ### Hi there 👋
 I'm Emily Gibbons! 
 - <i>Education:</i> BASc Student at Queen's University Kingston, ON, Canada. 
-- <i>Currently:</i> Working full-time as a software developer at Bank of Montreal.
+- <i>Currently:</i> Working full-time as a Software Developer at Bank of Montreal.
 
 <h2>💻 I'm currently learning:</h2>
 
